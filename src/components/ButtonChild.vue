@@ -1,5 +1,5 @@
 <script setup>
-defineEmits(['clique'])
+defineEmits(['clique']);
 </script>
 
 <template>    
